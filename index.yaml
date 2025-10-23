@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  ica-example:
+  - apiVersion: v2
+    created: "2025-10-23T12:10:06.4122772Z"
+    description: An Example App for ICA Training
+    digest: 747f63c9c7b7acc93d362937d5c311382390bce215047613d7c81fd2ac6cdcfd
+    name: ica-example
+    type: application
+    urls:
+    - ica-example-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-10-23T12:10:06.4113276Z"
